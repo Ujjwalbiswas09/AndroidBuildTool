@@ -2,7 +2,7 @@
 
 Dont use these library as a part of your application.<br>
 
-Paste library files in private Data directory.// .getFilesDir();
+Paste library files in private Data directory.(.getFilesDir());
 
 
 <h2>Bundle-android.jar</h2>
@@ -15,7 +15,7 @@ Paste library files in private Data directory.// .getFilesDir();
   
 <h2>Aapt</h2> <ul>
 <li>Aapt Tool Stands For Android Asset Packaging Tool.</li>
-<li>aapt uses to compile resources, manifest and Generating Resource id class //R.java</li>
+<li>aapt uses to compile resources, manifest and Generating Resource id class (R.java)</li>
 <li>aapt also build apk (unsigned).</li>
 <li>It also can modify existing apk(dump).</li>
 </ul>
@@ -31,6 +31,12 @@ Paste library files in private Data directory.// .getFilesDir();
 <li>EJC Compiler is a java code compiler.(.java to .class)</li>
 <li>EJC Compiler used to compile java byte within JVM.</li>
 <li>EJC Compiler support Upto java 1.7.</li>
+</ul>
+
+<h2>Aapt2</h2> <ul>
+<li>Aapt2 is the Upgarded Version of Aapt.</li>
+<li>Aapt2 can compile resource into protobuf format.</li>
+<li>Aapt2 is necessary for aab building.</li>
 </ul>
 
 <a href="https://youtube.com/@I-D0NT-KNOW">Youtube</a>
