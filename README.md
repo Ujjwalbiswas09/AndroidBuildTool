@@ -39,4 +39,11 @@ Paste library files in private Data directory.(.getFilesDir());
 <li>Aapt2 is necessary for aab building.</li>
 </ul>
 
+<h2>Zipalign</h2> <ul>
+<li>Zipalign is used align Uncompressed Files</li>
+<li>Zipalign helps to reduce ram usage of appplication which Align by it.</li>
+<li>Zipalign helps to reduce application starting time.</li>
+<li>Zipalign helps to reduce post installation Application Size.</li>
+</ul>
+
 <a href="https://youtube.com/@I-D0NT-KNOW">Youtube</a>
