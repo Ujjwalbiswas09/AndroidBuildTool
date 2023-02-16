@@ -21,7 +21,8 @@ Paste library files in private Data directory.// .getFilesDir();
 </ul>
 
 <h2>D8</h2> <ul>
-<li>D8 uses to convert .class (Java ByteCode) into .dex(Dalvik Executable Code).//Android Supports Dalvik Code Not Java ByteCode </li>
+<li>D8 uses to convert .class (Java ByteCode) into .dex(Dalvik Executable Code).</li>
+<li>Android Supports Dalvik Code Not Java Code</li>
 <li>It also can convert .Jar to .Dex. </li>
 <li>D8 Supports Java 8 Code Conversation. </li>
 </ul>
