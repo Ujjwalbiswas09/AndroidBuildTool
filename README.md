@@ -27,5 +27,10 @@ Paste library files in private Data directory.// .getFilesDir();
 <li>D8 Supports Java 8 Code Conversation. </li>
 </ul>
 
+<h2>EJC Compiler</h2> <ul>
+<li>EJC Compiler is a java code compiler.(.java to .class)</li>
+<li>EJC Compiler used to compile java byte within JVM.</li>
+<li>EJC Compiler support Upto java 1.7.</li>
+</ul>
 
 <a href="https://youtube.com/@I-D0NT-KNOW">Youtube</a>
